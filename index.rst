@@ -1,4 +1,6 @@
-**Strategia Nazionale per le Competenze Digitali**
+##############################################
+Strategia Nazionale per le Competenze Digitali
+##############################################
 
 *16 luglio 2020*
 
