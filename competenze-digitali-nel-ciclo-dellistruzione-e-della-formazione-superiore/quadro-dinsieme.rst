@@ -6,4 +6,5 @@ Quadro d’insieme
 *Istruzione*
 ------------
 
-.. |istruzione| image:: ./media/competenze-digitali-1.png
+.. image:: ../media/competenze-digitali-1.png
+  :alt: Competenze Digitali - Istruzione
