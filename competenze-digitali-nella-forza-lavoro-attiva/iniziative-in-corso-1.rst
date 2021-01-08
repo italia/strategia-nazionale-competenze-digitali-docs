@@ -199,7 +199,7 @@ Inoltre:
    in particolare della dirigenza pubblica, chiamata a gestire, in tale
    modalità, l’organizzazione degli uffici e del personale, e sempre
    nell’ottica della continuità dei servizi erogati a cittadini e
-   imprese.\ [STRIKEOUT:.] Anche nella Direttiva del Ministro della
+   imprese. Anche nella Direttiva del Ministro della
    pubblica amministrazione n.3/2020 si riconosce la formazione come
    strumento fondamentale di accompagnamento del personale nel processo
    di diffusione della capacità di lavorare in modalità agile e come
@@ -215,7 +215,7 @@ Inoltre:
    ed alle imprese.
 
 -  Il rafforzamento delle competenze digitali del settore pubblico
-   attraverso il turnover è [STRIKEOUT:invece] stato promosso
+   attraverso il turnover è stato promosso
    esplicitamente fin dalla Legge n. 56/2019 che prevede che la
    predisposizione dei piani di fabbisogno da parte delle
    amministrazioni debba tener conto dell’assunzione in via prioritaria
@@ -223,8 +223,8 @@ Inoltre:
    digitalizzazione.
 
 -  Il Ministro per la pubblica amministrazione e il Ministro per
-   l'innovazione tecnologica e la digitalizzazione hanno [STRIKEOUT:poi]
-   sottoscritto un protocollo che promuove un approccio più strutturale
+   l'innovazione tecnologica e la digitalizzazione hanno sottoscritto 
+   un protocollo che promuove un approccio più strutturale
    alle competenze digitali, che arriva ad includere il possesso di tali
    competenze tra i requisiti fondamentali dei candidati all’ingresso
    nel pubblico impiego ed il suo rafforzamento nel personale che vi è
